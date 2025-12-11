@@ -1,4 +1,6 @@
 print("Welcome to Python programming./")
 print("Chao mung den voi lap trinh Python.")
 print("Hello, World!")
-
+print("Xin chao, The gioi!")
+print("This is a simple Python script.")
+print("Day la mot script Python don gian.")
